@@ -1,6 +1,0 @@
-Record=TopLevelDocument|FileName=CODEC.SchDoc|SheetNumber=2
-Record=SheetSymbol|SourceDocument=CODEC.SchDoc|Designator=FB1|SchDesignator=Repeat(FB, 1, 2)|FileName=Filters n Buffers.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Filters n Buffers.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=CODEC.SchDoc|Designator=FB2|SchDesignator=Repeat(FB, 1, 2)|FileName=Filters n Buffers.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Filters n Buffers.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=CODEC.SchDoc|FileName=Bf706 DSP.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=CODEC.SchDoc|FileName=Power Supply.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=CODEC.SchDoc|FileName=SPI Stuff.SchDoc|SheetNumber=4
