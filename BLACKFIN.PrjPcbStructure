@@ -1,6 +1,7 @@
-Record=TopLevelDocument|FileName=CODEC.SchDoc|SheetNumber=2
-Record=SheetSymbol|SourceDocument=CODEC.SchDoc|Designator=FB1|SchDesignator=Repeat(FB, 1, 2)|FileName=Filters n Buffers.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Filters n Buffers.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=CODEC.SchDoc|Designator=FB2|SchDesignator=Repeat(FB, 1, 2)|FileName=Filters n Buffers.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Filters n Buffers.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=CODEC.SchDoc|FileName=Bf706 DSP.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=CODEC.SchDoc|FileName=Power Supply.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=CODEC.SchDoc|FileName=SPI Stuff.SchDoc|SheetNumber=4
+Record=TopLevelDocument|FileName=Master.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Bf706 DSP.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Bf706 DSP.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=SPI Stuff.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=SPI Stuff.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=CODEC.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=CODEC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Master.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Power Supply.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=Power Supply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=CODEC.SchDoc|Designator=FB1|SchDesignator=Repeat(FB, 1, 2)|FileName=Filters n Buffers.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Filters n Buffers.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=CODEC.SchDoc|Designator=FB2|SchDesignator=Repeat(FB, 1, 2)|FileName=Filters n Buffers.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Filters n Buffers.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
