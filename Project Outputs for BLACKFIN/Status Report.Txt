@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BLACKFIN.PrjPcb]
+   Generated File[Bing Bong.TXT]
+   Generated File[Bing Bong.LDP]
+   Generated File[Bing Bong.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 7:00:45 PM On 10/09/2022

@@ -1,0 +1,21 @@
+Board Information Report
+Filename     : C:\Users\Public\Documents\Altium\Projects\BLACKFIN\Bing Bong.PcbDoc
+Date         : 10/09/2022
+Time         : 6:26:54 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 38.45mmx40.1mm
+    Components on board, 143
+count : 2
+
+Non-Plated Hole Size, Pads, Vias
+    0mm, 33, 0
+count : 1
+
+Plated Hole Size, Pads, Vias
+    0mm, 421, 0
+    0.2mm, 0, 2
+    0.3mm, 0, 219
+    1.1mm, 18, 0
+count : 4
